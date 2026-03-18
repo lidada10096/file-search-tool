@@ -6,6 +6,14 @@
 
 **通用性设计**：不限于特定领域，可用于任何需要按名称列表搜索文件的场景。
 
+## 界面预览
+
+### GUI主界面
+![GUI主界面](https://raw.githubusercontent.com/lidada10096/file-search-tool/main/images/gui_screenshot.png)
+
+### Excel搜索结果报表
+![Excel报表](https://raw.githubusercontent.com/lidada10096/file-search-tool/main/images/excel_report.png)
+
 ## 快速开始
 
 ```bash
@@ -27,7 +35,7 @@ python main.py run
 - openpyxl 库
 
 ```bash
-pip install openpyxl
+pip install -r requirements.txt
 ```
 
 ## 配置文件
@@ -179,6 +187,7 @@ project/
 ├── config.json           # 配置文件
 ├── name.txt              # 项目名称列表
 ├── setup.py              # 打包脚本
+├── requirements.txt      # 依赖列表
 ├── README.md             # 使用说明
 └── output/               # 打包输出目录
     └── FileSearchTool.exe    # 可执行文件
