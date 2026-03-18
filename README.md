@@ -9,10 +9,10 @@
 ## 界面预览
 
 ### GUI主界面
-![GUI主界面](https://raw.githubusercontent.com/lidada10096/file-search-tool/main/images/gui_screenshot.png)
+![GUI主界面](https://github.com/lidada10096/file-search-tool/blob/main/image/e6bc4db3-e611-4fd9-9e74-02050cd077fd.png)
 
 ### Excel搜索结果报表
-![Excel报表](https://raw.githubusercontent.com/lidada10096/file-search-tool/main/images/excel_report.png)
+![Excel报表](https://github.com/lidada10096/file-search-tool/blob/main/image/e9ad067f-f043-4cc4-a971-0ddf2a686c05.png)
 
 ## 快速开始
 
